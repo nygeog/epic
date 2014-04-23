@@ -4,11 +4,11 @@ EPIC - GIS Course
 
 Welcome to The Epidemiology and Population Health Summer Institute at Columbia University - Geographic Information Systems Course
 
-##### Course Website
+### Course Website
 http://nygeog.github.io/epic/
 
 
-##### Code
+#### Code
 All the relevant code for this course will be in a bounding box (see below).
 
 ```
@@ -19,5 +19,5 @@ $ git checkout gh-pages
 ##### Terms
 Throughout this course important terms will be  `Highlighted GIS Term` for your convenience.
 
-##### Software
+###### Software
 This course will primarily use ArcGIS 10.x. ArcGIS runs on Windows (we'll be using Windows 7). 

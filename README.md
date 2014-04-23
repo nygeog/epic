@@ -1,5 +1,7 @@
 EPIC - GIS Course
 ---
+![EPIC logo](images/epic_logo_web-01.png)
+
 Welcome to The Epidemiology and Population Health Summer Institute at Columbia University - Geographic Information Systems Course
 
 ##### Course Website

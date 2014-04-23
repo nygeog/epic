@@ -1,5 +1,8 @@
-epic
+EPIC - GIS Course
 ====
+The Epidemiology and Population Health Summer Institute at Columbia University - Geographic Information Systems Course
+
+Website
 http://nygeog.github.io/epic/
 
 

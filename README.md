@@ -7,15 +7,19 @@ Welcome to The Epidemiology and Population Health Summer Institute at Columbia U
 ### Course Website
 http://nygeog.github.io/epic/
 
+### Pre-Course Form
+https://docs.google.com/forms/d/1fFs-h2-aFGedeioMBF9AU37jAV0Jp8skm4XLDViqvxc/viewform
 
-#### Code
+
+<!---#### Code
 All the relevant code for this course will be in a bounding box (see below).
 
 ```
 $ cd your_repo_root/repo_name
 $ git fetch origin
 $ git checkout gh-pages
-```
+```-->
+
 ##### Terms
 Throughout this course important terms will be  `Highlighted GIS Term` for your convenience.
 

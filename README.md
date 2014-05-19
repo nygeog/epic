@@ -10,7 +10,6 @@ http://nygeog.github.io/epic/
 ### Pre-Course Form
 https://docs.google.com/forms/d/1fFs-h2-aFGedeioMBF9AU37jAV0Jp8skm4XLDViqvxc/viewform
 
-#TEST
 <!---#### Code
 All the relevant code for this course will be in a bounding box (see below).
 

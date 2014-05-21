@@ -9,6 +9,7 @@ http://nygeog.github.io/epic/
 #### EPIC Website
 https://www.cuepisummer.org/
 
+<<<<<<< HEAD
 https://www.cuepisummer.org/course/geographic-information-systems
 
 #### Course Meeting Time
@@ -23,6 +24,20 @@ cd your_repo_root/repo_name
 git fetch origin
 git checkout gh-pages
 ```
+=======
+### Pre-Course Form
+https://docs.google.com/forms/d/1fFs-h2-aFGedeioMBF9AU37jAV0Jp8skm4XLDViqvxc/viewform
+
+<!---#### Code
+All the relevant code for this course will be in a bounding box (see below).
+
+```
+$ cd your_repo_root/repo_name
+$ git fetch origin
+$ git checkout gh-pages
+```-->
+
+>>>>>>> FETCH_HEAD
 ##### Terms
 Throughout this course important terms will be  `Highlighted GIS Term` for your convenience.
 

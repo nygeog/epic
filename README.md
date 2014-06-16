@@ -5,11 +5,11 @@ EPIC - GIS Course
 Welcome to The Epidemiology and Population Health Summer Institute at Columbia University - Geographic Information Systems Course
 
 #### Course Website
-http://nygeog.github.io/epic/
+http://columbia.edu/~dms2203
+
 #### EPIC Website
 https://www.cuepisummer.org/
 
-<<<<<<< HEAD
 https://www.cuepisummer.org/course/geographic-information-systems
 
 #### Course Meeting Time
@@ -37,15 +37,5 @@ $ git fetch origin
 $ git checkout gh-pages
 ```-->
 
->>>>>>> FETCH_HEAD
-##### Terms
-Throughout this course important terms will be  `Highlighted GIS Term` for your convenience.
-
 ###### Software
 This course will primarily use ArcGIS 10.x. ArcGIS runs on Windows (we'll be using Windows 7). 
-
-### Topics
-+ ####Projections 
-+ ####Geocoding
-+ ####Mapping
-+ 

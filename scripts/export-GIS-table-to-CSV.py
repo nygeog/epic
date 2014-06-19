@@ -3,12 +3,11 @@ from arcpy import env
 env.overwriteOutput = True
 
 #work directory
-wd = 'V:/GIS/projects/transit/tasks/201405_transit/data/'
+wd = 'V:/GIS/projects/nets/tasks/201406_tract_area/'
 
 #input table or GIS file
-table   = wd+"processing/zonal_stats.gdb/station"+i+'_pts_'+j+"_kd_c_"+c+"_b_"+s+"_zon"
-#output csv file
-outfile = wd+'tables/zonal_stats/station'+i+'_'+j+'_kd_c_'+c+"_b_"+s+'_zon_raw.csv'
+table   = wd+'census_land_area/census_land_area.gdb/tracts_2010_nynjpa_erase_hydro_proj'
+outfile = wd+'ct2010landarea_raw.csv'
 
 #--first lets make a list of all of the fields in the table
 fields = arcpy.ListFields(table)
